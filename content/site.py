@@ -10,6 +10,13 @@ PHONE_DISPLAY = "0508-202-4719"
 GU = "서대문구"
 TAGLINE = "서대문구 전지역 방문 관리 · 24시간 상담"
 
+# IndexNow 키 — 변경 금지(루트의 {KEY}.txt 파일과 일치해야 함). 빙·네이버 즉시 색인 통보용.
+INDEXNOW_KEY = "1ca325a0dc0d5bc2043aa3229d9b443a"
+
+# 푸터 텔레그램 버튼 링크 (제휴 문의 채널이 따로 있으면 TELEGRAM_BIZ만 교체)
+TELEGRAM_MAKE = "https://t.me/googleseolab"
+TELEGRAM_BIZ = "https://t.me/googleseolab"
+
 # 상단 메뉴 — 하위 메뉴에는 키워드를 과도하게 반복하지 않고 지역명·역명·생활권명만 표시한다.
 NAV = [
     ("서대문 홈", "/", []),

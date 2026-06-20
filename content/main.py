@@ -3,6 +3,8 @@ from .site import BASE_URL, BRAND, PHONE, PHONE_DISPLAY
 
 _OG = f"{BASE_URL.rstrip('/')}/assets/og-image.png"
 
+_VERIFY = '<meta name="naver-site-verification" content="c2ddd68cf414537edf297cbaf6e949fc0389e3f9" />\n'
+
 _JSONLD = f"""<script type="application/ld+json">
 {{
   "@context": "https://schema.org",
@@ -194,7 +196,7 @@ PAGE = {
     "desc": "서대문구 출장마사지·홈타이 예약 전 신촌, 홍제, 연희, 북아현 생활권을 확인하세요.",
     "h1": "서대문구 출장마사지 · 서대문구 홈타이 지역별 예약 안내",
     "body": _BODY,
-    "extra_head": _JSONLD,
+    "extra_head": _VERIFY + _JSONLD,
     "breadcrumb": [],
     "hero": _HERO,
 }

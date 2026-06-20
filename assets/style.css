@@ -738,3 +738,29 @@ body {
 @media (prefers-reduced-motion: reduce) {
   body { background-attachment: scroll; }
 }
+
+/* 푸터 텔레그램 문의 버튼 — 오렌지 */
+.footer-cta { display: flex; gap: 10px; flex-wrap: wrap; }
+.footer-cta-btn {
+  display: inline-flex; align-items: center; gap: 7px;
+  padding: 9px 18px; border-radius: 22px;
+  font-size: 0.84rem; font-weight: 800; letter-spacing: 0.02em;
+  color: #2a1402; white-space: nowrap;
+  background: linear-gradient(135deg, #ffa64d, #ff7a1a 55%, #f2660a);
+  border: 1px solid rgba(255, 138, 60, 0.55);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 240, 222, 0.5),
+    0 8px 22px rgba(242, 102, 10, 0.32);
+  transition: transform 0.15s, filter 0.15s, box-shadow 0.15s;
+}
+.footer-cta-btn:hover {
+  color: #2a1402; transform: translateY(-2px); filter: brightness(1.05);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 240, 222, 0.6),
+    0 12px 28px rgba(242, 102, 10, 0.42);
+}
+.footer-cta-btn .tg-icon { width: 16px; height: 16px; fill: #2a1402; flex: none; }
+@media (max-width: 920px) {
+  .footer-cta { width: 100%; }
+  .footer-cta-btn { flex: 1 1 auto; justify-content: center; }
+}
