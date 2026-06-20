@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.seodaemun-barogo.example.com/sitemap.xml
+Sitemap: https://seodaemun-massage1.pages.dev/sitemap.xml
