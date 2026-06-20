@@ -112,15 +112,15 @@ _BODY = f"""
 <h2>대표동별 방문 가능 지역 안내</h2>
 <p>대표 동은 충현동, 천연동, 북아현동, 신촌동, 연희동, 홍제동, 홍은동, 남가좌동, 북가좌동 아홉 곳으로 구성합니다. 홍제1~3동은 홍제동, 홍은1·2동은 홍은동, 남가좌1·2동은 남가좌동, 북가좌1·2동은 북가좌동 대표 페이지에서 통합해 안내합니다. 거주하시거나 머무시는 동을 선택해 생활권 특징과 방문 조건을 확인해 주세요.</p>
 <ul class="card-grid">
-<li><a href="/seoul/seodaemun/chunghyeon-dong-chuljangmassage/">충현동</a></li>
-<li><a href="/seoul/seodaemun/cheonyeon-dong-chuljangmassage/">천연동</a></li>
-<li><a href="/seoul/seodaemun/bugahyeon-dong-chuljangmassage/">북아현동</a></li>
-<li><a href="/seoul/seodaemun/sinchon-dong-chuljangmassage/">신촌동</a></li>
-<li><a href="/seoul/seodaemun/yeonhui-dong-chuljangmassage/">연희동</a></li>
-<li><a href="/seoul/seodaemun/hongje-dong-chuljangmassage/">홍제동</a></li>
-<li><a href="/seoul/seodaemun/hongeun-dong-chuljangmassage/">홍은동</a></li>
-<li><a href="/seoul/seodaemun/namgajwa-dong-chuljangmassage/">남가좌동</a></li>
-<li><a href="/seoul/seodaemun/bukgajwa-dong-chuljangmassage/">북가좌동</a></li>
+<li><a href="/seoul/seodaemun/chunghyeon-dong/">충현동</a></li>
+<li><a href="/seoul/seodaemun/cheonyeon-dong/">천연동</a></li>
+<li><a href="/seoul/seodaemun/bugahyeon-dong/">북아현동</a></li>
+<li><a href="/seoul/seodaemun/sinchon-dong/">신촌동</a></li>
+<li><a href="/seoul/seodaemun/yeonhui-dong/">연희동</a></li>
+<li><a href="/seoul/seodaemun/hongje-dong/">홍제동</a></li>
+<li><a href="/seoul/seodaemun/hongeun-dong/">홍은동</a></li>
+<li><a href="/seoul/seodaemun/namgajwa-dong/">남가좌동</a></li>
+<li><a href="/seoul/seodaemun/bukgajwa-dong/">북가좌동</a></li>
 </ul>
 <p>서대문구 전체 구성은 <a href="/seoul/seodaemun/areas/">지역별 안내</a>에서 한눈에 확인하실 수 있습니다.</p>
 </section>
@@ -129,16 +129,16 @@ _BODY = f"""
 <h2>홍제역·신촌역·이대역·충정로역 역세권 안내</h2>
 <p>역을 기준으로 위치를 설명하는 것이 편하시다면 역세권 안내를 참고하세요. 홍제역부터 가좌역, 아현역·디지털미디어시티역 인접 생활권까지 역마다 한 페이지로 정리했습니다. 신촌역·충정로역·가좌역처럼 노선이 여러 개거나 경계 성격이 있는 역도 노선별로 쪼개지 않고 한 페이지로 운영하며, 홍대입구역처럼 마포구 성격이 강한 역은 인접 생활권으로만 설명합니다.</p>
 <ul class="card-grid">
-<li><a href="/seoul/seodaemun/hongje-station-chuljangmassage/">홍제역</a></li>
-<li><a href="/seoul/seodaemun/muakjae-station-chuljangmassage/">무악재역</a></li>
-<li><a href="/seoul/seodaemun/dongnimmun-station-chuljangmassage/">독립문역</a></li>
-<li><a href="/seoul/seodaemun/chungjeongno-station-chuljangmassage/">충정로역</a></li>
-<li><a href="/seoul/seodaemun/seodaemun-station-chuljangmassage/">서대문역</a></li>
-<li><a href="/seoul/seodaemun/ewha-womans-univ-station-chuljangmassage/">이대역</a></li>
-<li><a href="/seoul/seodaemun/sinchon-station-chuljangmassage/">신촌역</a></li>
-<li><a href="/seoul/seodaemun/gajwa-station-chuljangmassage/">가좌역</a></li>
-<li><a href="/seoul/seodaemun/ahyeon-nearby-area-chuljangmassage/">아현역 인접</a></li>
-<li><a href="/seoul/seodaemun/dmc-nearby-area-chuljangmassage/">DMC역 인접</a></li>
+<li><a href="/seoul/seodaemun/hongje-station/">홍제역</a></li>
+<li><a href="/seoul/seodaemun/muakjae-station/">무악재역</a></li>
+<li><a href="/seoul/seodaemun/dongnimmun-station/">독립문역</a></li>
+<li><a href="/seoul/seodaemun/chungjeongno-station/">충정로역</a></li>
+<li><a href="/seoul/seodaemun/seodaemun-station/">서대문역</a></li>
+<li><a href="/seoul/seodaemun/ewha-womans-univ-station/">이대역</a></li>
+<li><a href="/seoul/seodaemun/sinchon-station/">신촌역</a></li>
+<li><a href="/seoul/seodaemun/gajwa-station/">가좌역</a></li>
+<li><a href="/seoul/seodaemun/ahyeon-nearby-area/">아현역 인접</a></li>
+<li><a href="/seoul/seodaemun/dmc-nearby-area/">DMC역 인접</a></li>
 </ul>
 </section>
 

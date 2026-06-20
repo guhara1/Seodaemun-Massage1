@@ -29,22 +29,22 @@ _HUB_BODY = """
 </section>
 <section>
 <h2>노선별 역 정리</h2>
-<p>서대문구를 지나는 역은 노선 성격에 따라 묶을 수 있습니다. 3호선 구간은 <a href="/seoul/seodaemun/hongje-station-chuljangmassage/">홍제역</a>·<a href="/seoul/seodaemun/muakjae-station-chuljangmassage/">무악재역</a>·<a href="/seoul/seodaemun/dongnimmun-station-chuljangmassage/">독립문역</a>이 이어지는 주거 중심 라인입니다. 2호선은 <a href="/seoul/seodaemun/sinchon-station-chuljangmassage/">신촌역</a>과 <a href="/seoul/seodaemun/ewha-womans-univ-station-chuljangmassage/">이대역</a>이 대학가 상권을 끼고 있고, 2·5호선 도심 접근 구간으로는 <a href="/seoul/seodaemun/chungjeongno-station-chuljangmassage/">충정로역</a>과 <a href="/seoul/seodaemun/seodaemun-station-chuljangmassage/">서대문역</a>이 있습니다. 경의중앙선·구 경계 성격으로는 <a href="/seoul/seodaemun/gajwa-station-chuljangmassage/">가좌역</a>이, 인접 생활권으로는 아현·DMC 방면을 따로 안내합니다. 3호선 라인은 인왕산·안산과 홍제천을 끼고 비교적 한적한 주거지가 이어지고, 2호선 대학가는 상권과 원룸촌이 섞여 늦은 시간까지 활기가 있습니다. 도심 접근 구간은 오피스와 관공서·병원이 많아 업무권 성격이 짙고, 경계·인접 생활권은 행정 구분이 애매할 수 있어 주소 확인 후 방문 가능 여부를 함께 안내합니다. 이렇게 노선 성격을 알아 두시면 가까운 역을 고르기가 한결 수월합니다.</p>
+<p>서대문구를 지나는 역은 노선 성격에 따라 묶을 수 있습니다. 3호선 구간은 <a href="/seoul/seodaemun/hongje-station/">홍제역</a>·<a href="/seoul/seodaemun/muakjae-station/">무악재역</a>·<a href="/seoul/seodaemun/dongnimmun-station/">독립문역</a>이 이어지는 주거 중심 라인입니다. 2호선은 <a href="/seoul/seodaemun/sinchon-station/">신촌역</a>과 <a href="/seoul/seodaemun/ewha-womans-univ-station/">이대역</a>이 대학가 상권을 끼고 있고, 2·5호선 도심 접근 구간으로는 <a href="/seoul/seodaemun/chungjeongno-station/">충정로역</a>과 <a href="/seoul/seodaemun/seodaemun-station/">서대문역</a>이 있습니다. 경의중앙선·구 경계 성격으로는 <a href="/seoul/seodaemun/gajwa-station/">가좌역</a>이, 인접 생활권으로는 아현·DMC 방면을 따로 안내합니다. 3호선 라인은 인왕산·안산과 홍제천을 끼고 비교적 한적한 주거지가 이어지고, 2호선 대학가는 상권과 원룸촌이 섞여 늦은 시간까지 활기가 있습니다. 도심 접근 구간은 오피스와 관공서·병원이 많아 업무권 성격이 짙고, 경계·인접 생활권은 행정 구분이 애매할 수 있어 주소 확인 후 방문 가능 여부를 함께 안내합니다. 이렇게 노선 성격을 알아 두시면 가까운 역을 고르기가 한결 수월합니다.</p>
 </section>
 <section>
 <h2>역 카드 목록</h2>
 <p>아래에서 가까운 역을 골라 해당 역세권 안내로 이동하실 수 있습니다.</p>
 <ul class="card-grid">
-<li><a href="/seoul/seodaemun/hongje-station-chuljangmassage/">홍제역</a></li>
-<li><a href="/seoul/seodaemun/muakjae-station-chuljangmassage/">무악재역</a></li>
-<li><a href="/seoul/seodaemun/dongnimmun-station-chuljangmassage/">독립문역</a></li>
-<li><a href="/seoul/seodaemun/chungjeongno-station-chuljangmassage/">충정로역</a></li>
-<li><a href="/seoul/seodaemun/seodaemun-station-chuljangmassage/">서대문역</a></li>
-<li><a href="/seoul/seodaemun/ewha-womans-univ-station-chuljangmassage/">이대역</a></li>
-<li><a href="/seoul/seodaemun/sinchon-station-chuljangmassage/">신촌역</a></li>
-<li><a href="/seoul/seodaemun/gajwa-station-chuljangmassage/">가좌역</a></li>
-<li><a href="/seoul/seodaemun/ahyeon-nearby-area-chuljangmassage/">아현역 인접 생활권</a></li>
-<li><a href="/seoul/seodaemun/dmc-nearby-area-chuljangmassage/">DMC역 인접 생활권</a></li>
+<li><a href="/seoul/seodaemun/hongje-station/">홍제역</a></li>
+<li><a href="/seoul/seodaemun/muakjae-station/">무악재역</a></li>
+<li><a href="/seoul/seodaemun/dongnimmun-station/">독립문역</a></li>
+<li><a href="/seoul/seodaemun/chungjeongno-station/">충정로역</a></li>
+<li><a href="/seoul/seodaemun/seodaemun-station/">서대문역</a></li>
+<li><a href="/seoul/seodaemun/ewha-womans-univ-station/">이대역</a></li>
+<li><a href="/seoul/seodaemun/sinchon-station/">신촌역</a></li>
+<li><a href="/seoul/seodaemun/gajwa-station/">가좌역</a></li>
+<li><a href="/seoul/seodaemun/ahyeon-nearby-area/">아현역 인접 생활권</a></li>
+<li><a href="/seoul/seodaemun/dmc-nearby-area/">DMC역 인접 생활권</a></li>
 </ul>
 </section>
 <section>
@@ -75,7 +75,7 @@ HUB = {
 
 
 HONGJE = _station(
-    "hongje-station-chuljangmassage",
+    "hongje-station",
     "홍제역",
     "홍제역 출장마사지｜홍제동 중심 주거 생활권 안내",
     "홍제역 출장마사지 예약 전 홍제동 중심 주거 생활권 이동 기준을 확인하세요.",
@@ -87,7 +87,7 @@ HONGJE = _station(
 </section>
 <section>
 <h2>인근 생활권과 대표 동</h2>
-<p>홍제역의 핵심 생활권은 <a href="/seoul/seodaemun/hongje-dong-chuljangmassage/">홍제동</a>이며, 천변과 언덕 위 단지에 따라 분위기가 나뉩니다. 위치를 알려 주실 때는 유진상가·홍제천·문화로 같은 지형지물과 함께 단지명 또는 도로명 주소를 적어 주시면 이동 동선을 잡기 좋습니다. 같은 홍제동이라도 천변 평지와 안산·인왕산 자락 언덕은 진입로가 전혀 다릅니다.</p>
+<p>홍제역의 핵심 생활권은 <a href="/seoul/seodaemun/hongje-dong/">홍제동</a>이며, 천변과 언덕 위 단지에 따라 분위기가 나뉩니다. 위치를 알려 주실 때는 유진상가·홍제천·문화로 같은 지형지물과 함께 단지명 또는 도로명 주소를 적어 주시면 이동 동선을 잡기 좋습니다. 같은 홍제동이라도 천변 평지와 안산·인왕산 자락 언덕은 진입로가 전혀 다릅니다.</p>
 </section>
 <section>
 <h2>이런 일정에 자주 이용됩니다</h2>
@@ -106,14 +106,14 @@ HONGJE = _station(
 <div class="faq-item"><h3>홍제역에서 만나서 함께 이동하나요?</h3><p>아니요. 역에서 만나는 방식이 아니라 알려 주신 자택 주소로 직접 방문합니다. 역은 위치를 가늠하는 기준점일 뿐입니다.</p></div>
 <div class="faq-item"><h3>언덕 위 단지인데 방문이 가능한가요?</h3><p>네. 경사진 골목이나 언덕 단지도 방문합니다. 진입로와 가까운 출입구를 미리 알려 주시면 더 수월합니다.</p></div>
 <div class="faq-item"><h3>천변 산책 직후에 바로 이용할 수 있나요?</h3><p>네. 홍제천 산책이나 자락길 산행 직후 시간대 문의가 많습니다. 도착 희망 시간을 미리 알려 주시면 일정에 맞춰 안내해 드립니다.</p></div>
-<div class="faq-item"><h3>홍제동 외 인근도 같은 페이지로 보면 되나요?</h3><p>홍제역 기준 인근은 본 페이지로 안내하며, 무악재 방면은 <a href="/seoul/seodaemun/muakjae-station-chuljangmassage/">무악재역</a> 페이지를 참고하시면 됩니다.</p></div>
+<div class="faq-item"><h3>홍제동 외 인근도 같은 페이지로 보면 되나요?</h3><p>홍제역 기준 인근은 본 페이지로 안내하며, 무악재 방면은 <a href="/seoul/seodaemun/muakjae-station/">무악재역</a> 페이지를 참고하시면 됩니다.</p></div>
 </section>
 """,
 )
 
 
 MUAKJAE = _station(
-    "muakjae-station-chuljangmassage",
+    "muakjae-station",
     "무악재역",
     "무악재역 출장마사지｜홍제동·천연동 인접권 안내",
     "무악재역 출장마사지 예약 전 홍제동·천연동 인접 주거권 이동 기준을 확인하세요.",
@@ -125,7 +125,7 @@ MUAKJAE = _station(
 </section>
 <section>
 <h2>인근 생활권과 대표 동</h2>
-<p>무악재역은 <a href="/seoul/seodaemun/hongje-dong-chuljangmassage/">홍제동</a>과 <a href="/seoul/seodaemun/cheonyeon-dong-chuljangmassage/">천연동</a> 사이에 걸쳐 있어, 같은 역 인근이라도 어느 동에 가까운지에 따라 진입로가 달라집니다. 위치는 통일로 기준 어느 쪽 고갯길인지, 산 쪽인지 동네 안쪽인지를 함께 적어 주시면 안내가 정확해집니다. 같은 무악재라도 홍제동 방면은 단지가, 천연동 방면은 오래된 주택가가 많아 진입 동선이 갈리므로 방향을 짚어 주시면 안내가 빨라집니다.</p>
+<p>무악재역은 <a href="/seoul/seodaemun/hongje-dong/">홍제동</a>과 <a href="/seoul/seodaemun/cheonyeon-dong/">천연동</a> 사이에 걸쳐 있어, 같은 역 인근이라도 어느 동에 가까운지에 따라 진입로가 달라집니다. 위치는 통일로 기준 어느 쪽 고갯길인지, 산 쪽인지 동네 안쪽인지를 함께 적어 주시면 안내가 정확해집니다. 같은 무악재라도 홍제동 방면은 단지가, 천연동 방면은 오래된 주택가가 많아 진입 동선이 갈리므로 방향을 짚어 주시면 안내가 빨라집니다.</p>
 </section>
 <section>
 <h2>이런 일정에 자주 이용됩니다</h2>
@@ -144,14 +144,14 @@ MUAKJAE = _station(
 <div class="faq-item"><h3>무악재역이 홍제동인가요 천연동인가요?</h3><p>역이 두 동 사이 고개에 걸쳐 있어 위치에 따라 다릅니다. 가까운 동과 주소를 알려 주시면 방문 동선을 맞춰 드립니다.</p></div>
 <div class="faq-item"><h3>계단길 위 집인데 방문되나요?</h3><p>네. 차량이 닿지 않는 계단길 위 주택도 방문합니다. 가까운 진입로와 큰길 기준점을 알려 주시면 수월하게 찾아갑니다.</p></div>
 <div class="faq-item"><h3>산행 직후에도 바로 이용할 수 있나요?</h3><p>네. 인왕산·안산 자락길 산행 직후 다리 피로를 푸는 문의가 많습니다. 도착 희망 시간을 알려 주시면 일정에 맞춰 안내합니다.</p></div>
-<div class="faq-item"><h3>홍제역과 무엇이 다른가요?</h3><p>두 역 모두 3호선이지만 무악재역이 더 산자락에 가깝고 한층 조용합니다. 홍제동 중심 생활권은 <a href="/seoul/seodaemun/hongje-station-chuljangmassage/">홍제역</a> 페이지를 참고하세요.</p></div>
+<div class="faq-item"><h3>홍제역과 무엇이 다른가요?</h3><p>두 역 모두 3호선이지만 무악재역이 더 산자락에 가깝고 한층 조용합니다. 홍제동 중심 생활권은 <a href="/seoul/seodaemun/hongje-station/">홍제역</a> 페이지를 참고하세요.</p></div>
 </section>
 """,
 )
 
 
 DONGNIMMUN = _station(
-    "dongnimmun-station-chuljangmassage",
+    "dongnimmun-station",
     "독립문역",
     "독립문역 출장마사지｜천연동·서대문형무소 인근 안내",
     "독립문역 출장마사지 예약 전 천연동·독립공원 인근 방문 기준을 확인하세요.",
@@ -163,7 +163,7 @@ DONGNIMMUN = _station(
 </section>
 <section>
 <h2>인근 생활권과 대표 동</h2>
-<p>독립문역의 핵심 생활권은 <a href="/seoul/seodaemun/cheonyeon-dong-chuljangmassage/">천연동</a>입니다. 영천시장 안쪽 주택가인지, 독립공원·형무소 역사관 쪽인지, 안산 자락 방면인지에 따라 진입로가 달라지니 위치를 알려 주실 때 가까운 지형지물을 함께 적어 주시면 좋습니다. 무악재 방면으로도 이어지므로 경계가 애매하면 도로명 주소를 함께 주시면 더 정확하게 안내해 드립니다.</p>
+<p>독립문역의 핵심 생활권은 <a href="/seoul/seodaemun/cheonyeon-dong/">천연동</a>입니다. 영천시장 안쪽 주택가인지, 독립공원·형무소 역사관 쪽인지, 안산 자락 방면인지에 따라 진입로가 달라지니 위치를 알려 주실 때 가까운 지형지물을 함께 적어 주시면 좋습니다. 무악재 방면으로도 이어지므로 경계가 애매하면 도로명 주소를 함께 주시면 더 정확하게 안내해 드립니다.</p>
 </section>
 <section>
 <h2>이런 일정에 자주 이용됩니다</h2>
@@ -182,14 +182,14 @@ DONGNIMMUN = _station(
 <div class="faq-item"><h3>독립공원이나 형무소 역사관 앞에서 만나나요?</h3><p>아니요. 명소는 위치 설명용 기준점일 뿐이며, 실제 방문은 알려 주신 자택이나 숙소 주소로 이동합니다.</p></div>
 <div class="faq-item"><h3>영천시장 안쪽 골목집도 방문되나요?</h3><p>네. 좁은 시장 골목 안쪽 주택도 방문합니다. 가까운 시장 입구나 큰길을 기준으로 위치를 알려 주시면 수월합니다.</p></div>
 <div class="faq-item"><h3>공원 산책이나 자락길 산행 후에도 이용되나요?</h3><p>네. 독립공원과 안산 자락길 산행 직후 다리 피로를 푸는 문의가 많습니다. 도착 희망 시간을 알려 주시면 맞춰 안내합니다.</p></div>
-<div class="faq-item"><h3>천연동 전체가 이 페이지인가요?</h3><p>독립문역 기준 인근은 본 페이지로 안내합니다. 무악재 방면에 가까우면 <a href="/seoul/seodaemun/muakjae-station-chuljangmassage/">무악재역</a> 페이지도 함께 참고하시면 됩니다.</p></div>
+<div class="faq-item"><h3>천연동 전체가 이 페이지인가요?</h3><p>독립문역 기준 인근은 본 페이지로 안내합니다. 무악재 방면에 가까우면 <a href="/seoul/seodaemun/muakjae-station/">무악재역</a> 페이지도 함께 참고하시면 됩니다.</p></div>
 </section>
 """,
 )
 
 
 CHUNGJEONGNO = _station(
-    "chungjeongno-station-chuljangmassage",
+    "chungjeongno-station",
     "충정로역",
     "충정로역 출장마사지｜충현동·도심 인접 업무권 안내",
     "충정로역 출장마사지 예약 전 충현동·도심 인접 업무권 방문 기준을 확인하세요.",
@@ -201,7 +201,7 @@ CHUNGJEONGNO = _station(
 </section>
 <section>
 <h2>인근 생활권과 대표 동</h2>
-<p>충정로역의 핵심 생활권은 <a href="/seoul/seodaemun/chunghyeon-dong-chuljangmassage/">충현동</a>입니다. 오피스 빌딩 밀집 구간인지, 충현동 안쪽 주거·오피스텔인지에 따라 동선이 달라지니, 경기대로 기준 방향과 건물명을 함께 알려 주시면 안내가 정확해집니다. 서대문역 방면과도 자연스럽게 이어져 두 역 사이 위치는 더 가까운 역으로 안내받으시면 되고, 같은 충현동이라도 빌딩가와 주거 골목은 진입 동선이 다릅니다.</p>
+<p>충정로역의 핵심 생활권은 <a href="/seoul/seodaemun/chunghyeon-dong/">충현동</a>입니다. 오피스 빌딩 밀집 구간인지, 충현동 안쪽 주거·오피스텔인지에 따라 동선이 달라지니, 경기대로 기준 방향과 건물명을 함께 알려 주시면 안내가 정확해집니다. 서대문역 방면과도 자연스럽게 이어져 두 역 사이 위치는 더 가까운 역으로 안내받으시면 되고, 같은 충현동이라도 빌딩가와 주거 골목은 진입 동선이 다릅니다.</p>
 </section>
 <section>
 <h2>이런 일정에 자주 이용됩니다</h2>
@@ -220,14 +220,14 @@ CHUNGJEONGNO = _station(
 <div class="faq-item"><h3>2호선과 5호선 중 어느 쪽을 알려야 하나요?</h3><p>환승역이라도 노선 구분은 필요하지 않습니다. 방문은 주소 기준이므로 건물명과 도로명 주소만 정확하면 됩니다.</p></div>
 <div class="faq-item"><h3>야근 후 사무실 인근 오피스텔도 가능한가요?</h3><p>네. 자택과 숙소, 오피스텔 모두 방문합니다. 건물 출입 방법과 가능 시간을 미리 알려 주시면 수월합니다.</p></div>
 <div class="faq-item"><h3>늦은 밤 시간대도 문의되나요?</h3><p>도심 업무권 특성상 늦은 시간 요청이 잦습니다. 가능 여부는 <a href="/reservation/">예약 안내</a>에서 시간대를 확인해 주세요.</p></div>
-<div class="faq-item"><h3>서대문역과 가까운데 어느 페이지를 봐야 하나요?</h3><p>두 역이 도심 업무권으로 이어집니다. 더 가까운 역 기준으로 보시면 되며, 서대문역 쪽은 <a href="/seoul/seodaemun/seodaemun-station-chuljangmassage/">서대문역</a> 페이지를 참고하세요.</p></div>
+<div class="faq-item"><h3>서대문역과 가까운데 어느 페이지를 봐야 하나요?</h3><p>두 역이 도심 업무권으로 이어집니다. 더 가까운 역 기준으로 보시면 되며, 서대문역 쪽은 <a href="/seoul/seodaemun/seodaemun-station/">서대문역</a> 페이지를 참고하세요.</p></div>
 </section>
 """,
 )
 
 
 SEODAEMUN = _station(
-    "seodaemun-station-chuljangmassage",
+    "seodaemun-station",
     "서대문역",
     "서대문역 출장마사지｜충현동·서대문 도심 생활권 안내",
     "서대문역 출장마사지 예약 전 충현동·서대문 도심 업무권 방문 기준을 확인하세요.",
@@ -239,7 +239,7 @@ SEODAEMUN = _station(
 </section>
 <section>
 <h2>인근 생활권과 대표 동</h2>
-<p>서대문역의 핵심 생활권은 <a href="/seoul/seodaemun/chunghyeon-dong-chuljangmassage/">충현동</a>으로, 충정로역 쪽과 자연스럽게 이어집니다. 병원·관청 방면 큰길 쪽인지, 충현동 안쪽 주거·오피스텔인지에 따라 동선이 달라지니 가까운 기관명이나 건물명을 함께 적어 주시면 좋습니다. 두 역 사이 위치는 더 가까운 역으로 안내받으시면 되고, 큰길 업무가와 충현동 안쪽 주거지는 진입로가 다릅니다.</p>
+<p>서대문역의 핵심 생활권은 <a href="/seoul/seodaemun/chunghyeon-dong/">충현동</a>으로, 충정로역 쪽과 자연스럽게 이어집니다. 병원·관청 방면 큰길 쪽인지, 충현동 안쪽 주거·오피스텔인지에 따라 동선이 달라지니 가까운 기관명이나 건물명을 함께 적어 주시면 좋습니다. 두 역 사이 위치는 더 가까운 역으로 안내받으시면 되고, 큰길 업무가와 충현동 안쪽 주거지는 진입로가 다릅니다.</p>
 </section>
 <section>
 <h2>이런 일정에 자주 이용됩니다</h2>
@@ -256,7 +256,7 @@ SEODAEMUN = _station(
 <section>
 <h2>자주 묻는 질문</h2>
 <div class="faq-item"><h3>병원이나 관청 앞에서 만나는 건가요?</h3><p>아니요. 기관 이름은 위치를 가늠하는 기준점일 뿐이고, 방문은 알려 주신 자택이나 숙소 주소로 이동합니다.</p></div>
-<div class="faq-item"><h3>충정로역과 가까운데 어느 페이지를 봐야 하나요?</h3><p>두 역이 가깝게 이어집니다. 더 가까운 역 기준으로 보시면 되고, 충정로 쪽은 <a href="/seoul/seodaemun/chungjeongno-station-chuljangmassage/">충정로역</a> 페이지를 참고하세요.</p></div>
+<div class="faq-item"><h3>충정로역과 가까운데 어느 페이지를 봐야 하나요?</h3><p>두 역이 가깝게 이어집니다. 더 가까운 역 기준으로 보시면 되고, 충정로 쪽은 <a href="/seoul/seodaemun/chungjeongno-station/">충정로역</a> 페이지를 참고하세요.</p></div>
 <div class="faq-item"><h3>병원가 인근 숙소도 방문되나요?</h3><p>네. 인근 숙소 방문이 가능합니다. 건물명과 방 위치, 출입 방법을 미리 알려 주시면 도착이 빠릅니다.</p></div>
 <div class="faq-item"><h3>야근 후 사무실 인근에서도 이용되나요?</h3><p>네. 자택과 숙소, 사무실 인근 모두 방문합니다. 야간·주말은 건물 출입이 제한될 수 있으니 출입 절차와 가능 시간, 사무실 층을 미리 알려 주세요.</p></div>
 </section>
@@ -265,7 +265,7 @@ SEODAEMUN = _station(
 
 
 EWHA = _station(
-    "ewha-womans-univ-station-chuljangmassage",
+    "ewha-womans-univ-station",
     "이대역",
     "이대역 출장마사지｜북아현동·신촌 인접 생활권 안내",
     "이대역 출장마사지 예약 전 북아현동·이화여대 상권 인접 방문 기준을 확인하세요.",
@@ -277,7 +277,7 @@ EWHA = _station(
 </section>
 <section>
 <h2>인근 생활권과 대표 동</h2>
-<p>이대역은 <a href="/seoul/seodaemun/bugahyeon-dong-chuljangmassage/">북아현동</a>과 <a href="/seoul/seodaemun/sinchon-dong-chuljangmassage/">신촌동</a> 생활권에 함께 닿아 있습니다. 상권 쪽인지 북아현동 언덕 위 단지인지에 따라 진입로가 다르니, 정문 거리·언덕 단지 같은 기준과 도로명 주소를 함께 알려 주시면 좋습니다. 신촌과 가까운 위치는 더 가까운 역 기준으로 안내받으시면 되고, 정문 상권 거리와 언덕 위 북아현동 단지는 진입 동선이 크게 다릅니다.</p>
+<p>이대역은 <a href="/seoul/seodaemun/bugahyeon-dong/">북아현동</a>과 <a href="/seoul/seodaemun/sinchon-dong/">신촌동</a> 생활권에 함께 닿아 있습니다. 상권 쪽인지 북아현동 언덕 위 단지인지에 따라 진입로가 다르니, 정문 거리·언덕 단지 같은 기준과 도로명 주소를 함께 알려 주시면 좋습니다. 신촌과 가까운 위치는 더 가까운 역 기준으로 안내받으시면 되고, 정문 상권 거리와 언덕 위 북아현동 단지는 진입 동선이 크게 다릅니다.</p>
 </section>
 <section>
 <h2>이런 일정에 자주 이용됩니다</h2>
@@ -294,7 +294,7 @@ EWHA = _station(
 <section>
 <h2>자주 묻는 질문</h2>
 <div class="faq-item"><h3>이대역 상권에서 만나나요?</h3><p>아니요. 상권 거리는 위치 기준점일 뿐이고, 방문은 알려 주신 자택이나 숙소 주소로 직접 이동합니다.</p></div>
-<div class="faq-item"><h3>신촌과 가까운데 어느 페이지를 봐야 하나요?</h3><p>두 생활권이 이어집니다. 더 가까운 역 기준으로 보시면 되며, 신촌 쪽은 <a href="/seoul/seodaemun/sinchon-station-chuljangmassage/">신촌역</a> 페이지를 참고하세요.</p></div>
+<div class="faq-item"><h3>신촌과 가까운데 어느 페이지를 봐야 하나요?</h3><p>두 생활권이 이어집니다. 더 가까운 역 기준으로 보시면 되며, 신촌 쪽은 <a href="/seoul/seodaemun/sinchon-station/">신촌역</a> 페이지를 참고하세요.</p></div>
 <div class="faq-item"><h3>북아현동 언덕 단지도 방문되나요?</h3><p>네. 언덕 위 단지와 골목 안 주택도 방문합니다. 가까운 출입구와 진입로, 주차 가능 여부를 알려 주시면 한결 수월합니다.</p></div>
 <div class="faq-item"><h3>원룸이 비슷해서 못 찾을까 걱정됩니다.</h3><p>도로명 주소와 함께 건물명·층·호수를 정확히 주시면 됩니다. 가까운 큰 상점이나 사거리를 기준점으로 알려 주시면 비슷한 건물 사이에서도 더 빠르게 도착합니다.</p></div>
 </section>
@@ -303,7 +303,7 @@ EWHA = _station(
 
 
 SINCHON = _station(
-    "sinchon-station-chuljangmassage",
+    "sinchon-station",
     "신촌역",
     "신촌역 출장마사지｜신촌동·연세대 주변 생활권 안내",
     "신촌역 출장마사지 예약 전 신촌동·연세대 주변 생활권 방문 기준을 확인하세요.",
@@ -315,7 +315,7 @@ SINCHON = _station(
 </section>
 <section>
 <h2>인근 생활권과 대표 동</h2>
-<p>신촌역의 핵심 생활권은 <a href="/seoul/seodaemun/sinchon-dong-chuljangmassage/">신촌동</a>이며, 이화여대 방면 <a href="/seoul/seodaemun/bugahyeon-dong-chuljangmassage/">북아현동</a> 쪽과도 이어집니다. 번화가 거리인지 연세대 주변 원룸촌인지에 따라 진입로가 다르니, 가까운 거리·캠퍼스 출입구와 도로명 주소를 함께 알려 주시면 좋습니다. 이대 쪽과 가까운 위치는 더 가까운 역으로 안내받으시면 되고, 같은 신촌동이라도 큰길과 골목 안 원룸촌은 진입 동선이 갈립니다.</p>
+<p>신촌역의 핵심 생활권은 <a href="/seoul/seodaemun/sinchon-dong/">신촌동</a>이며, 이화여대 방면 <a href="/seoul/seodaemun/bugahyeon-dong/">북아현동</a> 쪽과도 이어집니다. 번화가 거리인지 연세대 주변 원룸촌인지에 따라 진입로가 다르니, 가까운 거리·캠퍼스 출입구와 도로명 주소를 함께 알려 주시면 좋습니다. 이대 쪽과 가까운 위치는 더 가까운 역으로 안내받으시면 되고, 같은 신촌동이라도 큰길과 골목 안 원룸촌은 진입 동선이 갈립니다.</p>
 </section>
 <section>
 <h2>이런 일정에 자주 이용됩니다</h2>
@@ -334,14 +334,14 @@ SINCHON = _station(
 <div class="faq-item"><h3>2호선과 경의중앙선 신촌역 중 어디 기준인가요?</h3><p>이름이 같은 두 역이라도 페이지는 하나로 안내합니다. 노선 구분이나 출구 번호 없이 가까운 동·도로명 주소만 알려 주시면 위치를 확인해 드립니다.</p></div>
 <div class="faq-item"><h3>번화가 거리에서 만나는 건가요?</h3><p>아니요. 거리는 위치를 가늠하는 기준점일 뿐이고, 방문은 알려 주신 자택이나 숙소 주소로 직접 이동합니다.</p></div>
 <div class="faq-item"><h3>늦은 밤에도 문의할 수 있나요?</h3><p>번화가 특성상 늦은 시간 요청이 많습니다. 가능한 시간대는 <a href="/reservation/">예약 안내</a>에서 확인하시고 희망 시간을 알려 주세요.</p></div>
-<div class="faq-item"><h3>이대역과 어떻게 구분하나요?</h3><p>두 상권이 한 흐름으로 이어져 있어 더 가까운 역 기준으로 보시면 됩니다. 이대 쪽에 가까우면 <a href="/seoul/seodaemun/ewha-womans-univ-station-chuljangmassage/">이대역</a> 페이지를 참고하세요.</p></div>
+<div class="faq-item"><h3>이대역과 어떻게 구분하나요?</h3><p>두 상권이 한 흐름으로 이어져 있어 더 가까운 역 기준으로 보시면 됩니다. 이대 쪽에 가까우면 <a href="/seoul/seodaemun/ewha-womans-univ-station/">이대역</a> 페이지를 참고하세요.</p></div>
 </section>
 """,
 )
 
 
 GAJWA = _station(
-    "gajwa-station-chuljangmassage",
+    "gajwa-station",
     "가좌역",
     "가좌역 출장마사지｜남가좌동·북가좌동 인접권 안내",
     "가좌역 출장마사지 예약 전 남가좌동·북가좌동 인접 주거권 방문 기준을 확인하세요.",
@@ -353,7 +353,7 @@ GAJWA = _station(
 </section>
 <section>
 <h2>인근 생활권과 대표 동</h2>
-<p>가좌역은 <a href="/seoul/seodaemun/namgajwa-dong-chuljangmassage/">남가좌동</a>과 <a href="/seoul/seodaemun/bukgajwa-dong-chuljangmassage/">북가좌동</a> 생활권에 함께 닿아 있습니다. 모래내 시장 쪽인지 명지대 방면인지, 어느 단지인지에 따라 진입로가 달라지니 가까운 기준점과 도로명 주소를 함께 알려 주시면 좋습니다. DMC 방면 북가좌동은 인접 생활권 페이지도 참고하세요.</p>
+<p>가좌역은 <a href="/seoul/seodaemun/namgajwa-dong/">남가좌동</a>과 <a href="/seoul/seodaemun/bukgajwa-dong/">북가좌동</a> 생활권에 함께 닿아 있습니다. 모래내 시장 쪽인지 명지대 방면인지, 어느 단지인지에 따라 진입로가 달라지니 가까운 기준점과 도로명 주소를 함께 알려 주시면 좋습니다. DMC 방면 북가좌동은 인접 생활권 페이지도 참고하세요.</p>
 </section>
 <section>
 <h2>이런 일정에 자주 이용됩니다</h2>
@@ -372,14 +372,14 @@ GAJWA = _station(
 <div class="faq-item"><h3>서대문구와 마포구 경계인데 방문되나요?</h3><p>경계 지역도 도로명 주소를 알려 주시면 방문 가능 여부를 미리 확인해 드립니다. 서대문구 남가좌동·북가좌동 일대는 본 페이지로 안내하니 가까운 주소와 함께 부담 없이 문의해 주세요.</p></div>
 <div class="faq-item"><h3>경의중앙선 역이라 노선을 알려야 하나요?</h3><p>아니요. 노선 구분은 필요하지 않습니다. 방문은 주소 기준이므로 동·도로명 주소와 단지명만 정확하면 충분합니다.</p></div>
 <div class="faq-item"><h3>명지대 방면 원룸도 방문되나요?</h3><p>네. 명지대 인근 원룸·주택도 방문합니다. 비슷한 건물이 많으니 도로명 주소와 함께 건물명·층·호수를 알려 주시면 한결 수월합니다.</p></div>
-<div class="faq-item"><h3>남가좌동과 북가좌동을 따로 봐야 하나요?</h3><p>가좌역 기준 두 동을 함께 안내합니다. 동별 상세는 <a href="/seoul/seodaemun/namgajwa-dong-chuljangmassage/">남가좌동</a>·<a href="/seoul/seodaemun/bukgajwa-dong-chuljangmassage/">북가좌동</a> 페이지를 참고하세요.</p></div>
+<div class="faq-item"><h3>남가좌동과 북가좌동을 따로 봐야 하나요?</h3><p>가좌역 기준 두 동을 함께 안내합니다. 동별 상세는 <a href="/seoul/seodaemun/namgajwa-dong/">남가좌동</a>·<a href="/seoul/seodaemun/bukgajwa-dong/">북가좌동</a> 페이지를 참고하세요.</p></div>
 </section>
 """,
 )
 
 
 AHYEON = _station(
-    "ahyeon-nearby-area-chuljangmassage",
+    "ahyeon-nearby-area",
     "아현역 인접",
     "아현역 인접 생활권 출장마사지｜북아현동·충현동 방문 기준 안내",
     "아현역 인접 출장마사지 예약 전 북아현동·충현동 인접 생활권 방문 기준을 확인하세요.",
@@ -391,7 +391,7 @@ AHYEON = _station(
 </section>
 <section>
 <h2>인근 생활권과 대표 동</h2>
-<p>아현역 인접 생활권의 핵심은 <a href="/seoul/seodaemun/bugahyeon-dong-chuljangmassage/">북아현동</a>이며, 충정로 방면으로는 <a href="/seoul/seodaemun/chunghyeon-dong-chuljangmassage/">충현동</a>과 이어집니다. 어느 단지인지, 도심 쪽인지 언덕 위인지에 따라 진입로가 다르니 단지명과 도로명 주소를 함께 알려 주시면 좋습니다. 이대 방면과 가까운 위치는 <a href="/seoul/seodaemun/ewha-womans-univ-station-chuljangmassage/">이대역</a> 페이지도 참고하시고, 신축 단지인지 정비 중인 옛 골목인지에 따라 진입 동선이 달라집니다.</p>
+<p>아현역 인접 생활권의 핵심은 <a href="/seoul/seodaemun/bugahyeon-dong/">북아현동</a>이며, 충정로 방면으로는 <a href="/seoul/seodaemun/chunghyeon-dong/">충현동</a>과 이어집니다. 어느 단지인지, 도심 쪽인지 언덕 위인지에 따라 진입로가 다르니 단지명과 도로명 주소를 함께 알려 주시면 좋습니다. 이대 방면과 가까운 위치는 <a href="/seoul/seodaemun/ewha-womans-univ-station/">이대역</a> 페이지도 참고하시고, 신축 단지인지 정비 중인 옛 골목인지에 따라 진입 동선이 달라집니다.</p>
 </section>
 <section>
 <h2>이런 일정에 자주 이용됩니다</h2>
@@ -417,7 +417,7 @@ AHYEON = _station(
 
 
 DMC = _station(
-    "dmc-nearby-area-chuljangmassage",
+    "dmc-nearby-area",
     "DMC역 인접",
     "디지털미디어시티역 인접 생활권 출장마사지｜북가좌동·DMC 접근권 안내",
     "DMC역 인접 출장마사지 예약 전 북가좌동·DMC 접근권 방문 기준을 확인하세요.",
@@ -429,7 +429,7 @@ DMC = _station(
 </section>
 <section>
 <h2>인근 생활권과 대표 동</h2>
-<p>DMC역 인접 생활권의 핵심은 <a href="/seoul/seodaemun/bukgajwa-dong-chuljangmassage/">북가좌동</a>이며, 가좌역 방면 <a href="/seoul/seodaemun/namgajwa-dong-chuljangmassage/">남가좌동</a> 쪽과도 이어집니다. 업무단지 가까운 쪽인지 북가좌동 단지 안쪽인지에 따라 진입로가 다르니 단지명과 도로명 주소를 함께 알려 주시면 좋습니다. 가좌역과 가까운 위치는 <a href="/seoul/seodaemun/gajwa-station-chuljangmassage/">가좌역</a> 페이지도 참고하세요.</p>
+<p>DMC역 인접 생활권의 핵심은 <a href="/seoul/seodaemun/bukgajwa-dong/">북가좌동</a>이며, 가좌역 방면 <a href="/seoul/seodaemun/namgajwa-dong/">남가좌동</a> 쪽과도 이어집니다. 업무단지 가까운 쪽인지 북가좌동 단지 안쪽인지에 따라 진입로가 다르니 단지명과 도로명 주소를 함께 알려 주시면 좋습니다. 가좌역과 가까운 위치는 <a href="/seoul/seodaemun/gajwa-station/">가좌역</a> 페이지도 참고하세요.</p>
 </section>
 <section>
 <h2>이런 일정에 자주 이용됩니다</h2>
@@ -447,7 +447,7 @@ DMC = _station(
 <h2>자주 묻는 질문</h2>
 <div class="faq-item"><h3>DMC역이 서대문구인가요?</h3><p>DMC역 자체는 마포구·은평구 성격이 강합니다. 본 페이지는 인접한 서대문구 북가좌동·가좌 방면 방문 기준을 안내합니다.</p></div>
 <div class="faq-item"><h3>업무단지 안에서 만나는 건가요?</h3><p>아니요. 업무단지는 위치 기준점일 뿐이고, 방문은 알려 주신 자택이나 숙소 주소로 직접 이동합니다.</p></div>
-<div class="faq-item"><h3>북가좌동 단지도 방문되나요?</h3><p>네. 북가좌동 단지를 방문합니다. 가좌역 방면 안내는 <a href="/seoul/seodaemun/gajwa-station-chuljangmassage/">가좌역</a> 페이지도 참고하세요.</p></div>
+<div class="faq-item"><h3>북가좌동 단지도 방문되나요?</h3><p>네. 북가좌동 단지를 방문합니다. 가좌역 방면 안내는 <a href="/seoul/seodaemun/gajwa-station/">가좌역</a> 페이지도 참고하세요.</p></div>
 <div class="faq-item"><h3>경계가 애매한데 방문 가능한가요?</h3><p>인접 생활권은 도로명 주소를 알려 주시면 가능 여부를 미리 확인해 드립니다. 서대문구 북가좌동에 해당하는지 함께 살펴 방문 가능 여부를 안내합니다.</p></div>
 </section>
 """,
